@@ -1,0 +1,36 @@
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.1.exe.config
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.1.exe
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.1.pdb
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\Wind_FilesManage.Properties.Resources.resources
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.1.exe
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.1.pdb
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.0\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.exe.config
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.exe
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.pdb
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage.Properties.Resources.resources
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.2.exe
+X:\_00_专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.2.pdb
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.exe.config
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.2.exe
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.2.pdb
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.exe
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.2.pdb
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\Wind_FilesManage.Properties.Resources.resources
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.2\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.3.exe.config
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.3.exe
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\bin\Release\Wind_FilesManage v1.3.pdb
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\Wind_FilesManage.Properties.Resources.resources
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.3.exe
+X:\__专业学习记录\C#\程序\_03_Wind_FilesManage\Wind_FilesManage v1.3\WindowsFormsApplication1\obj\Release\Wind_FilesManage v1.3.pdb
